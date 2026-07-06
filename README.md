@@ -1,7 +1,7 @@
-# PaperFlow-PDF-Toolkit-Merge-Compress-Convert-Edit-Sign-PDFs-Free
+# PaperFlow PDF Toolkit
 Merge, split, compress, convert, edit, sign, and organize PDFs in seconds with Folio PDF Toolkit. Fast, secure, and free.
 
-# PaperFlow PDF Toolkit
+# PaperFlow PDF Toolkit: Merge-Compress-Convert-Edit-Sign-PDFs-Free
 
 This project is a browser-based PDF toolkit built with HTML, CSS, and JavaScript.
 
